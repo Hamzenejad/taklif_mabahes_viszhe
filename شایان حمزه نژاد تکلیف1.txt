@@ -1,0 +1,29 @@
+شایان حمزه نژاد
+
+
+print(type(True))
+<class 'bool'>
+
+print(type(None))
+<class 'NoneType'>
+
+print(type(1234))
+<class 'int'>
+
+print(type("amin"))
+<class 'str'>
+print(type(False))
+<class 'bool'>
+
+print(type(float(4)))
+<class 'float'>
+
+print(type(int(301)))
+<class 'int'>
+
+
+منابع:
+
+W3school  
+و کامپایلر :
+https://www.online-python.com/
